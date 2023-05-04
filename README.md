@@ -1,6 +1,9 @@
 # Coronavirus-Observatory-VIsualization-Dashboard
 Covid Semantic Search Engine and Data Analytics
 
+## Architecture Diagram
+![Architecture](system_architecture_BD.png)
+
 # Semantic Search System
 ## Setting up the Backend of the Search System
 
